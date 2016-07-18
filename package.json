@@ -4,7 +4,7 @@
   "description": "shopping list app using mongodb",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Viral Amin",
   "license": "ISC",
